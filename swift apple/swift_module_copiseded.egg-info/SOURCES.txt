@@ -1,0 +1,33 @@
+LICENSE.txt
+README.rst
+pyproject.toml
+setup.py
+swift apple/swift_apple/GuessGame.py
+swift apple/swift_apple/GuessGameEasy.py
+swift apple/swift_apple/GuessGameSecondary.py
+swift apple/swift_apple/MITLicense.py
+swift apple/swift_apple/PHYSICAL_CONDITION_APPLET.py
+swift apple/swift_apple/Python3学习示例.py
+swift apple/swift_apple/__init__.py
+swift apple/swift_apple/animal_guess.py
+swift apple/swift_apple/caterpillar.py
+swift apple/swift_apple/caterpillar2.py
+swift apple/swift_apple/copyright.py
+swift apple/swift_apple/egg_catcher.py
+swift apple/swift_apple/egg_catcher_perfect.py
+swift apple/swift_apple/matchmaker.py
+swift apple/swift_apple/random.py
+swift apple/swift_apple/rectangle.py
+swift apple/swift_apple/robot_builder.py
+swift apple/swift_apple/screen_pet.py
+swift apple/swift_apple/swift.py
+swift apple/swift_apple/加密消息.py
+swift apple/swift_apple/单词九连猜.py
+swift apple/swift_apple/圆筒万花筒.py
+swift apple/swift_apple/快照抓拍.py
+swift apple/swift_apple/星光夜空.py
+swift apple/swift_apple/螺旋万花筒.py
+swift apple/swift_module_copiseded.egg-info/PKG-INFO
+swift apple/swift_module_copiseded.egg-info/SOURCES.txt
+swift apple/swift_module_copiseded.egg-info/dependency_links.txt
+swift apple/swift_module_copiseded.egg-info/top_level.txt
